@@ -1,1 +1,1 @@
-# edu-crm
+# Edu-crm is crm system to Educational centres
